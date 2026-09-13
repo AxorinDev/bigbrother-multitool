@@ -71,7 +71,7 @@ Passive recon, public-record aggregation, and metadata forensics.
 
 ---
 
-## 🛡 Red Team Tooling
+## 👾 Exploitation Suite
 
 Authorized-only modules for lab work and internal assessments.
 
