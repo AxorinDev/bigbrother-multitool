@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 <div align="center">
 
 # ❄️ POLARIS 🏔️
@@ -161,8 +160,3 @@ Big respect to the original author for open-sourcing the foundation.
 `Polaris v2.7.1 · Private Build`
 
 </div>
-EOF
-
-git add README.md
-git commit -m "Restore README"
-git push
