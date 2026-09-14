@@ -37,6 +37,14 @@
 
 ---
 
+<div align="center">
+
+<img src="docs/banner.png" alt="Polaris" width="100%">
+
+</div>
+
+---
+
 <a id="s-glance"></a>
 
 <div align="center">
