@@ -75,11 +75,11 @@ The interface ships with **13 switchable themes**, hot-swappable from the config
 
 <div align="center">
 
-## 🎯 Use Cases
+## 🤝 Use Cases
 
 | | |
 |:---:|:---|
-| **Red Teams** | Authorized pentesting, lab work, and adversary simulation. |
+| **Payload Suite** | Authorized pentesting, lab work, and adversary simulation. |
 | **OSINT Researchers** | Passive recon, public-record aggregation, metadata forensics. |
 | **Server Admins** | Bulk Discord management from one place. |
 | **Security Students** | Learn tooling patterns without setting up ten dependencies. |
