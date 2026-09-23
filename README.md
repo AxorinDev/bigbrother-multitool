@@ -1,7 +1,6 @@
-cat > README.md <<'EOF'
 <div align="center">
 
-# ❄️ BIG BROTHER 🏔️
+# 👁 BIG BROTHER 👁
 
 ### *You are being watched. Everything is saved.*
 
