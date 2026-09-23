@@ -31,14 +31,14 @@ cat > README.md <<'EOF'
 
 <div align="center">
 
-## 🧭 Navigate
+## 👁 Navigate
 
 **[Overview](#-overview)** &nbsp;·&nbsp; **[Discord](#-discord-automation)** &nbsp;·&nbsp; **[OSINT](#-osint--research)** &nbsp;·&nbsp; **[Red Team](#-red-team-tooling)** &nbsp;·&nbsp; **[Utilities](#-security--utilities)**  
 **[Roblox](#-roblox-analytics)** &nbsp;·&nbsp; **[Simulation](#-simulation-suite)** &nbsp;·&nbsp; **[Themes](#-themes)** &nbsp;·&nbsp; **[Roadmap](#-roadmap)** &nbsp;·&nbsp; **[Facts](#-quick-facts)** &nbsp;·&nbsp; **[Credits](#-credits)**
 
 ---
 
-## 💻 Overview
+## 📡 Overview
 
 Big Brother runs entirely in the terminal behind a **paginated dashboard** - every module is one or two keystrokes away. It ships with **13 switchable themes**, a plugin-style module loader, and a self-bootstrapping dependency system.
 
