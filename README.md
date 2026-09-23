@@ -1,7 +1,7 @@
 cat > README.md <<'EOF'
 <div align="center">
 
-# ❄️ POLARIS 🏔️
+# ❄️ BIG BROTHER 🏔️
 
 ### *Cold sky. Sharp tools. Follow the light.*
 
@@ -22,7 +22,7 @@ cat > README.md <<'EOF'
 ---
 
 > [!TIP]
-> **Just want a public, working tool?** Use **[Navi](https://github.com/glockinhand/navi-multitool)** - the original, stable, actively maintained version. Polaris is a personal fork built for my own workflow.
+> **Just want a public, working tool?** Use **[Navi](https://github.com/glockinhand/navi-multitool)** - the original, stable, actively maintained version. Big Brother is a personal fork built for my own workflow.
 
 > [!WARNING]
 > **Private use only.** Never target systems, accounts, or networks you don't own or have explicit written authorization to test.
@@ -40,7 +40,7 @@ cat > README.md <<'EOF'
 
 ## 💻 Overview
 
-Polaris runs entirely in the terminal behind a **paginated dashboard** - every module is one or two keystrokes away. It ships with **13 switchable themes**, a plugin-style module loader, and a self-bootstrapping dependency system.
+Big Brother runs entirely in the terminal behind a **paginated dashboard** - every module is one or two keystrokes away. It ships with **13 switchable themes**, a plugin-style module loader, and a self-bootstrapping dependency system.
 
 No GUI clutter. No browser tabs. No background services.
 
@@ -116,7 +116,7 @@ Sixteen scripted scenarios for demos, pranks, and tabletop exercises - fake aler
 
 Switchable from the config menu - thirteen palettes, zero config files to edit.
 
-`Polaris` · `Modern` · `Modern Red` · `Modern Purple` · `Rainbow` · `Blue` · `Red` · `Purple` · `Green` · `Yellow` · `Pink` · `Cyan` · `Gray`
+`Big Brother` · `Modern` · `Modern Red` · `Modern Purple` · `Rainbow` · `Blue` · `Red` · `Purple` · `Green` · `Yellow` · `Pink` · `Cyan` · `Gray`
 
 ---
 
@@ -148,7 +148,7 @@ Switchable from the config menu - thirteen palettes, zero config files to edit.
 
 ## 💙 Credits
 
-Built on the open-source **[Navi Multitool](https://github.com/glockinhand/navi-multitool)** by **[glockinhand](https://github.com/glockinhand)**. Polaris is a personal fork with a different dashboard, theme engine, and module layout.
+Built on the open-source **[Navi Multitool](https://github.com/glockinhand/navi-multitool)** by **[glockinhand](https://github.com/glockinhand)**. Big Brother is a personal fork with a different dashboard, theme engine, and module layout.
 
 Big respect to the original author for open-sourcing the foundation.
 
@@ -158,7 +158,7 @@ Big respect to the original author for open-sourcing the foundation.
 
 *Cold sky. Sharp tools. Follow the light.*
 
-`Polaris v2.7.1 · Private Build`
+`Big Brother v2.7.1 · Private Build`
 
 </div>
 EOF
