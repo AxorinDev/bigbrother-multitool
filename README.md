@@ -3,7 +3,7 @@ cat > README.md <<'EOF'
 
 # ❄️ BIG BROTHER 🏔️
 
-### *Cold sky. Sharp tools. Follow the light.*
+### *You are being watched. Everything is saved.*
 
 **A modular terminal toolkit for Discord automation, OSINT research, and authorized security testing.**
 
@@ -154,9 +154,9 @@ Big respect to the original author for open-sourcing the foundation.
 
 ---
 
-### ❄️ 🏔️ ❄️
+### 👁 👁 👁
 
-*Cold sky. Sharp tools. Follow the light.*
+*You are being watched. Everything is saved.*
 
 `Big Brother v2.7.1 · Private Build`
 
